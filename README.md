@@ -9,7 +9,9 @@ Scan Your Local Network for Open Ports.
 <img width="1891" height="855" alt="5" src="https://github.com/user-attachments/assets/1edf6d4d-fa9f-4d60-af00-a1a1462db5d3" />
 
 **Tools Used:**
+
 _Nmap_ - Network scanning
+
 _GitHub_ - Displaying Results
 
 
